@@ -1,8 +1,12 @@
 # Ensure6G – Trustworthy and Resilient 6G Systems
 
-Ensure6G is a research initiative focused on developing **secure, reliable, and trustworthy next-generation communication systems**. As 6G networks evolve to support critical applications across industry, society, and critical infrastructure, ensuring robustness against failures, attacks, and uncertainties becomes essential.
+<p align="center">
+  <img src="https://miun.imagevault.media/publishedmedia/s05vj54hx1o414woew74/Interreg_AURORA_16x9.webp" alt="Interreg Aurora Funding" width="600"/>
+</p>
 
-This project explores how advanced data-driven methods and intelligent system design can enhance the **dependability, adaptability, and performance** of future wireless networks.
+Ensure6G is a research initiative focused on developing **secure, reliable, and trustworthy next-generation communication systems**.
+
+As 6G networks evolve to support critical applications across industry, society, and infrastructure, ensuring robustness against failures, attacks, and uncertainties becomes essential.
 
 ---
 
@@ -10,17 +14,17 @@ This project explores how advanced data-driven methods and intelligent system de
 
 - Strengthen **security and resilience** in next-generation wireless networks  
 - Enable **reliable communication** for mission-critical applications  
-- Develop **adaptive and intelligent system mechanisms** for dynamic environments  
-- Improve **trustworthiness and robustness** of distributed network infrastructures  
+- Develop **adaptive and intelligent system mechanisms**  
+- Improve **trustworthiness and robustness** of distributed infrastructures  
 
 ---
 
 ## 🚀 Research Focus
 
-- Reliable and secure communication in emerging 6G systems  
-- Data-driven approaches for network monitoring and anomaly detection  
-- Robust system design for industrial and critical IoT applications  
-- Intelligent and autonomous network operation mechanisms  
+- Secure and reliable communication in emerging 6G systems  
+- Data-driven monitoring and anomaly detection  
+- Industrial IoT and critical systems  
+- Autonomous and intelligent network operation  
 
 ---
 
@@ -28,24 +32,17 @@ This project explores how advanced data-driven methods and intelligent system de
 
 - Industrial IoT (IIoT)  
 - Smart infrastructure and cities  
-- Mission-critical communication systems  
-- Autonomous and cyber-physical systems  
+- Mission-critical systems  
+- Cyber-physical systems  
 
 ---
 
 ## 🤝 Collaboration
 
-Ensure6G brings together academic and industrial partners to bridge the gap between **theoretical research and real-world deployment**, contributing to the development of future communication infrastructures.
+Ensure6G brings together academic and industrial partners to bridge the gap between **research and real-world deployment**, contributing to future communication infrastructures.
 
 ---
 
-## 📍 Project Information
+## 📍 Project Page
 
-For more details, visit the official project page:  
 👉 https://www.miun.se/en/Research/research-projects/ongoing-research-projects/ENSURE6G/
-
----
-
-## 📄 License
-
-This repository is part of the Ensure6G research project. Licensing details will be provided based on project outputs and contributions.
