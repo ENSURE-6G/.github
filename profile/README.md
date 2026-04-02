@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://www.miun.se/globalassets/miun.se/organisation/gemensamt/grafisk-profil/logotyp/mittuniversitetet_logotyp_eng.svg" alt="Mid Sweden University" height="60"/>
+  <img src="https://miun.imagevault.media/publishedmedia/e9k3bf7t2zkpndjzs28m/Miun_logotyp_CMYK.svg" alt="Mid Sweden University" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/University_of_Oulu_logo.svg" alt="University of Oulu" height="60"/>
+  <img src="https://media-cdn.oulu.fi/styles/main_image/s3/images/logo_unioulu_ver2_eng.png?itok=wFWJADbt" alt="University of Oulu" height="60"/>
 </p>
 
 ---
