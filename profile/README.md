@@ -1,8 +1,16 @@
 # Ensure6G – Trustworthy and Resilient 6G Systems
 
 <p align="center">
-  <img src="https://miun.imagevault.media/publishedmedia/s05vj54hx1o414woew74/Interreg_AURORA_16x9.webp" alt="Interreg Aurora Funding" width="600"/>
+  <img src="https://miun.imagevault.media/publishedmedia/s05vj54hx1o414woew74/Interreg_AURORA_16x9.webp" alt="Interreg Aurora Funding" width="700"/>
 </p>
+
+<p align="center">
+  <img src="https://www.miun.se/globalassets/miun.se/organisation/gemensamt/grafisk-profil/logotyp/mittuniversitetet_logotyp_eng.svg" alt="Mid Sweden University" height="60"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/University_of_Oulu_logo.svg" alt="University of Oulu" height="60"/>
+</p>
+
+---
 
 Ensure6G is a research initiative focused on developing **secure, reliable, and trustworthy next-generation communication systems**.
 
