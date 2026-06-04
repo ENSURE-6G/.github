@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">SDG 12 Responsible Consumption and Production</title>
+  <desc id="desc">Gold tile for Sustainable Development Goal 12.</desc>
+  <rect width="180" height="180" rx="14" fill="#bf8b2e"/>
+  <text x="18" y="45" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">12</text>
+  <text x="72" y="25" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">RESPONSIBLE</text>
+  <text x="72" y="42" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">CONSUMPTION</text>
+  <text x="72" y="59" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">AND PRODUCTION</text>
+  <path d="M62 115c0-25 30-44 62-25l12 8" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M139 72l-4 30-29-4" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 113c0 25-30 44-62 25l-12-8" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M41 156l4-30 29 4" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

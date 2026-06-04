@@ -45,6 +45,28 @@ ENSURE-6G develops secure, reliable, and trustworthy next-generation communicati
 | --- | --- | --- | --- |
 | Secure connected devices and production environments. | Resilient digital foundations for cities and regions. | Dependable communication where failure is costly. | Autonomous systems that need robust network awareness. |
 
+## Impact & Sustainability
+
+ENSURE-6G supports resilient digital infrastructure, sustainable industrial operations, and cross-border knowledge development. The work connects technical research in 6G with broader societal and environmental priorities.
+
+<p align="center">
+  <img src="assets/sdg/sdg-03.svg" alt="SDG 3 Good Health and Well-being" width="86"/>
+  <img src="assets/sdg/sdg-04.svg" alt="SDG 4 Quality Education" width="86"/>
+  <img src="assets/sdg/sdg-05.svg" alt="SDG 5 Gender Equality" width="86"/>
+  <img src="assets/sdg/sdg-09.svg" alt="SDG 9 Industry, Innovation and Infrastructure" width="86"/>
+  <img src="assets/sdg/sdg-11.svg" alt="SDG 11 Sustainable Cities and Communities" width="86"/>
+  <img src="assets/sdg/sdg-12.svg" alt="SDG 12 Responsible Consumption and Production" width="86"/>
+  <img src="assets/sdg/sdg-13.svg" alt="SDG 13 Climate Action" width="86"/>
+  <img src="assets/sdg/sdg-15.svg" alt="SDG 15 Life on Land" width="86"/>
+</p>
+
+| Impact area | ENSURE-6G contribution | Related goals |
+| --- | --- | --- |
+| **Resilient infrastructure** | Secure and reliable 6G connectivity for industrial and critical systems. | SDG 9, SDG 11 |
+| **Sustainable operations** | Sensing and data fusion to support efficient logistics, monitoring, and resource-aware decisions. | SDG 12, SDG 13 |
+| **Human and regional value** | Cross-border collaboration, education, and inclusive innovation capacity. | SDG 3, SDG 4, SDG 5 |
+| **Environmental awareness** | Networked monitoring for remote, harsh, and nature-sensitive environments. | SDG 13, SDG 15 |
+
 ## Collaboration
 
 ENSURE-6G brings together academic and industrial partners to bridge research and real-world deployment, contributing to future communication infrastructures across the Interreg Aurora region.

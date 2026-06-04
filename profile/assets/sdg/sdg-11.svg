@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">SDG 11 Sustainable Cities and Communities</title>
+  <desc id="desc">Yellow tile for Sustainable Development Goal 11.</desc>
+  <rect width="180" height="180" rx="14" fill="#fd9d24"/>
+  <text x="18" y="45" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">11</text>
+  <text x="72" y="25" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">SUSTAINABLE CITIES</text>
+  <text x="72" y="42" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">AND COMMUNITIES</text>
+  <path d="M34 151V93l30-26 30 26v58M84 151V60h40v91M124 151V89h27v62" fill="none" stroke="#fff" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M51 151v-31h26v31M101 80h8M101 101h8M101 122h8M137 108h7M137 128h7" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>

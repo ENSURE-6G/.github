@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">SDG 4 Quality Education</title>
+  <desc id="desc">Red tile for Sustainable Development Goal 4.</desc>
+  <rect width="180" height="180" rx="14" fill="#c5192d"/>
+  <text x="18" y="45" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">4</text>
+  <text x="58" y="29" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">QUALITY</text>
+  <text x="58" y="47" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">EDUCATION</text>
+  <path d="M38 76c24 0 37 8 52 18 15-10 28-18 52-18v64c-24 0-37 8-52 18-15-10-28-18-52-18z" fill="none" stroke="#fff" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M90 94v64" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>

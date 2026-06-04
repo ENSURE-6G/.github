@@ -33,6 +33,26 @@ The organization profile is maintained in [profile/README.md](profile/README.md)
 | **Data-driven intelligence** | Monitoring, anomaly detection, and adaptive network behavior |
 | **Industrial logistics** | Reliable sensing, coordination, and operational awareness |
 
+## Impact & sustainability
+
+<p align="center">
+  <img src="profile/assets/sdg/sdg-03.svg" alt="SDG 3 Good Health and Well-being" width="76"/>
+  <img src="profile/assets/sdg/sdg-04.svg" alt="SDG 4 Quality Education" width="76"/>
+  <img src="profile/assets/sdg/sdg-05.svg" alt="SDG 5 Gender Equality" width="76"/>
+  <img src="profile/assets/sdg/sdg-09.svg" alt="SDG 9 Industry, Innovation and Infrastructure" width="76"/>
+  <img src="profile/assets/sdg/sdg-11.svg" alt="SDG 11 Sustainable Cities and Communities" width="76"/>
+  <img src="profile/assets/sdg/sdg-12.svg" alt="SDG 12 Responsible Consumption and Production" width="76"/>
+  <img src="profile/assets/sdg/sdg-13.svg" alt="SDG 13 Climate Action" width="76"/>
+  <img src="profile/assets/sdg/sdg-15.svg" alt="SDG 15 Life on Land" width="76"/>
+</p>
+
+| Impact area | Related goals |
+| --- | --- |
+| **Resilient infrastructure** | SDG 9, SDG 11 |
+| **Sustainable operations** | SDG 12, SDG 13 |
+| **Human and regional value** | SDG 3, SDG 4, SDG 5 |
+| **Environmental awareness** | SDG 13, SDG 15 |
+
 ## Project page
 
 [Visit the ENSURE-6G project page](https://www.miun.se/en/Research/research-projects/ongoing-research-projects/ENSURE6G/)
