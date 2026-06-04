@@ -20,6 +20,14 @@ This repository powers the ENSURE-6G GitHub organization profile.
 
 ENSURE-6G develops secure, reliable, and trustworthy next-generation communication systems for industrial and society-critical environments. The project explores how multi-scale connectivity, sensing, and data fusion can improve the dependability and adaptability of future wireless networks.
 
+## Project idea
+
+<p align="center">
+  <img src="profile/assets/project-idea.svg" alt="ENSURE-6G project idea for transport infrastructure monitoring and safer logistics" width="900"/>
+</p>
+
+ENSURE-6G applies connectivity, sensing, and data fusion to transport infrastructure use cases such as roads, railways, logistics flows, and harsh operating environments.
+
 ## Profile content
 
 The organization profile is maintained in [profile/README.md](profile/README.md).

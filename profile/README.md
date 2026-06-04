@@ -24,6 +24,21 @@
 
 ENSURE-6G develops secure, reliable, and trustworthy next-generation communication systems for industrial and society-critical environments. The project explores how multi-scale connectivity, sensing, and data fusion can improve the dependability and adaptability of future wireless networks.
 
+## Project Idea
+
+ENSURE-6G focuses on transport infrastructure where reliable connectivity, remote sensing, and data fusion can help operators understand conditions earlier and act with more confidence.
+
+<p align="center">
+  <img src="assets/project-idea.svg" alt="ENSURE-6G project idea for transport infrastructure monitoring and safer logistics" width="900"/>
+</p>
+
+| Challenge | ENSURE-6G idea |
+| --- | --- |
+| **Large and remote infrastructure** | Use connected sensing and multi-scale communication to monitor roads, railways, logistics routes, and harsh environments. |
+| **Manual and costly inspections** | Reduce repeated field inspections by combining remote measurements, network data, and intelligent analysis. |
+| **Operational inefficiency** | Improve transportation planning through better situational awareness and data-driven decision support. |
+| **Safety risks** | Detect infrastructure and environmental risks earlier to help reduce accidents and service disruptions. |
+
 ## At a glance
 
 | Project direction | What it enables |
