@@ -23,10 +23,14 @@ ENSURE-6G develops secure, reliable, and trustworthy next-generation communicati
 ## Project idea
 
 <p align="center">
-  <img src="profile/assets/project-idea.svg" alt="ENSURE-6G project idea for transport infrastructure monitoring and safer logistics" width="900"/>
+  <img src="profile/assets/project-idea-generated.png" alt="ENSURE-6G project idea for connected transport infrastructure monitoring and safer logistics" width="900"/>
 </p>
 
 ENSURE-6G applies connectivity, sensing, and data fusion to transport infrastructure use cases such as roads, railways, logistics flows, and harsh operating environments.
+
+<p align="center">
+  <img src="profile/assets/project-outcomes-generated.png" alt="ENSURE-6G transport infrastructure outcomes: monitoring, remote inspection, logistics efficiency, and safer winter operations" width="900"/>
+</p>
 
 ## Profile content
 

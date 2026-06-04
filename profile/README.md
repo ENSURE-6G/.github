@@ -29,7 +29,7 @@ ENSURE-6G develops secure, reliable, and trustworthy next-generation communicati
 ENSURE-6G focuses on transport infrastructure where reliable connectivity, remote sensing, and data fusion can help operators understand conditions earlier and act with more confidence.
 
 <p align="center">
-  <img src="assets/project-idea.svg" alt="ENSURE-6G project idea for transport infrastructure monitoring and safer logistics" width="900"/>
+  <img src="assets/project-idea-generated.png" alt="ENSURE-6G project idea for connected transport infrastructure monitoring and safer logistics" width="900"/>
 </p>
 
 | Challenge | ENSURE-6G idea |
@@ -38,6 +38,14 @@ ENSURE-6G focuses on transport infrastructure where reliable connectivity, remot
 | **Manual and costly inspections** | Reduce repeated field inspections by combining remote measurements, network data, and intelligent analysis. |
 | **Operational inefficiency** | Improve transportation planning through better situational awareness and data-driven decision support. |
 | **Safety risks** | Detect infrastructure and environmental risks earlier to help reduce accidents and service disruptions. |
+
+<p align="center">
+  <img src="assets/project-outcomes-generated.png" alt="ENSURE-6G transport infrastructure outcomes: monitoring, remote inspection, logistics efficiency, and safer winter operations" width="900"/>
+</p>
+
+| Monitoring & maintenance | Fewer manual inspections | Higher transport efficiency | Reduced accident risk |
+| --- | --- | --- | --- |
+| Connected sensors support continuous awareness of infrastructure conditions. | Remote observations reduce the need for repeated field visits. | Data fusion helps coordinate road, rail, and logistics flows. | Earlier hazard detection supports safer operations and response. |
 
 ## At a glance
 
