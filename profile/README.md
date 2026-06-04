@@ -24,24 +24,6 @@
 
 ENSURE-6G develops secure, reliable, and trustworthy next-generation communication systems for industrial and society-critical environments. The project explores how multi-scale connectivity, sensing, and data fusion can improve the dependability and adaptability of future wireless networks.
 
-## Demo
-
-Explore the ENSURE-6G demo app and its source repository.
-
-<p align="center">
-  <a href="https://ensure6gdemo1git-s9j25uhrhfsbwxnddvuags.streamlit.app/">
-    <img src="https://img.shields.io/badge/Launch%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch ENSURE-6G Streamlit demo"/>
-  </a>
-  <a href="https://github.com/ENSURE-6G/Ensure6gDemo1">
-    <img src="https://img.shields.io/badge/View%20Source-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="View ENSURE-6G demo source on GitHub"/>
-  </a>
-</p>
-
-| Demo resource | Link |
-| --- | --- |
-| **Live application** | [Open the ENSURE-6G Streamlit demo](https://ensure6gdemo1git-s9j25uhrhfsbwxnddvuags.streamlit.app/) |
-| **Source code** | [ENSURE-6G/Ensure6gDemo1](https://github.com/ENSURE-6G/Ensure6gDemo1) |
-
 ## At a glance
 
 | Project direction | What it enables |
@@ -94,3 +76,25 @@ ENSURE-6G brings together academic and industrial partners to bridge research an
     <strong>Visit the ENSURE-6G project page</strong>
   </a>
 </p>
+
+## Live Demo
+
+<p align="center">
+  <a href="https://ensure6gdemo1git-s9j25uhrhfsbwxnddvuags.streamlit.app/">
+    <img src="assets/demo-showcase.svg" alt="ENSURE-6G live Streamlit demo showcase" width="900"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ensure6gdemo1git-s9j25uhrhfsbwxnddvuags.streamlit.app/">
+    <img src="https://img.shields.io/badge/Open%20Interactive%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open ENSURE-6G interactive Streamlit demo"/>
+  </a>
+  <a href="https://github.com/ENSURE-6G/Ensure6gDemo1">
+    <img src="https://img.shields.io/badge/Explore%20Source%20Code-GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Explore ENSURE-6G demo source code on GitHub"/>
+  </a>
+</p>
+
+| Try it | What you can explore |
+| --- | --- |
+| **Live Streamlit application** | Interactive ENSURE-6G demo experience for connectivity, sensing, and data fusion concepts. |
+| **Open-source demo repository** | Implementation details, app code, and materials in [ENSURE-6G/Ensure6gDemo1](https://github.com/ENSURE-6G/Ensure6gDemo1). |
