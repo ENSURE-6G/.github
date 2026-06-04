@@ -1,51 +1,38 @@
-# Ensure6G – Trustworthy and Resilient 6G Systems
+<p align="center">
+  <img src="profile/assets/ensure-6g-industrial-logistics.png" alt="ENSURE-6G industrial logistics project banner" width="900"/>
+</p>
 
-Ensure6G is a research initiative focused on developing **secure, reliable, and trustworthy next-generation communication systems**. As 6G networks evolve to support critical applications across industry, society, and critical infrastructure, ensuring robustness against failures, attacks, and uncertainties becomes essential.
+<h1 align="center">ENSURE-6G</h1>
 
-This project explores how advanced data-driven methods and intelligent system design can enhance the **dependability, adaptability, and performance** of future wireless networks.
+<p align="center">
+  <strong>Trustworthy and resilient 6G systems for industrial logistics</strong>
+</p>
 
----
-
-## 🔍 Key Objectives
-
-- Strengthen **security and resilience** in next-generation wireless networks  
-- Enable **reliable communication** for mission-critical applications  
-- Develop **adaptive and intelligent system mechanisms** for dynamic environments  
-- Improve **trustworthiness and robustness** of distributed network infrastructures  
-
----
-
-## 🚀 Research Focus
-
-- Reliable and secure communication in emerging 6G systems  
-- Data-driven approaches for network monitoring and anomaly detection  
-- Robust system design for industrial and critical IoT applications  
-- Intelligent and autonomous network operation mechanisms  
+<p align="center">
+  <img src="https://img.shields.io/badge/6G-Trustworthy%20Systems-2f80ed?style=for-the-badge" alt="6G Trustworthy Systems"/>
+  <img src="https://img.shields.io/badge/Focus-Industrial%20Logistics-00a99d?style=for-the-badge" alt="Industrial Logistics"/>
+  <img src="https://img.shields.io/badge/Theme-Connectivity%20%7C%20Sensing%20%7C%20Data%20Fusion-5c6bc0?style=for-the-badge" alt="Connectivity, sensing, and data fusion"/>
+</p>
 
 ---
 
-## 🏭 Application Domains
+This repository powers the ENSURE-6G GitHub organization profile.
 
-- Industrial IoT (IIoT)  
-- Smart infrastructure and cities  
-- Mission-critical communication systems  
-- Autonomous and cyber-physical systems  
+ENSURE-6G develops secure, reliable, and trustworthy next-generation communication systems for industrial and society-critical environments. The project explores how multi-scale connectivity, sensing, and data fusion can improve the dependability and adaptability of future wireless networks.
 
----
+## Profile content
 
-## 🤝 Collaboration
+The organization profile is maintained in [profile/README.md](profile/README.md).
 
-Ensure6G brings together academic and industrial partners to bridge the gap between **theoretical research and real-world deployment**, contributing to the development of future communication infrastructures.
+## Project focus
 
----
+| Project direction | What it enables |
+| --- | --- |
+| **Resilient 6G communication** | Robust wireless systems for demanding industrial settings |
+| **Secure distributed infrastructure** | Trustworthy connectivity across organizations and borders |
+| **Data-driven intelligence** | Monitoring, anomaly detection, and adaptive network behavior |
+| **Industrial logistics** | Reliable sensing, coordination, and operational awareness |
 
-## 📍 Project Information
+## Project page
 
-For more details, visit the official project page:  
-👉 https://www.miun.se/en/Research/research-projects/ongoing-research-projects/ENSURE6G/
-
----
-
-## 📄 License
-
-This repository is part of the Ensure6G research project. Licensing details will be provided based on project outputs and contributions.
+[Visit the ENSURE-6G project page](https://www.miun.se/en/Research/research-projects/ongoing-research-projects/ENSURE6G/)

@@ -1,7 +1,17 @@
-# Ensure6G – Trustworthy and Resilient 6G Systems
-
 <p align="center">
   <img src="assets/ensure-6g-industrial-logistics.png" alt="ENSURE-6G industrial logistics project banner" width="900"/>
+</p>
+
+<h1 align="center">ENSURE-6G</h1>
+
+<p align="center">
+  <strong>Trustworthy and resilient 6G systems for industrial logistics</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/6G-Trustworthy%20Systems-2f80ed?style=for-the-badge" alt="6G Trustworthy Systems"/>
+  <img src="https://img.shields.io/badge/Focus-Industrial%20Logistics-00a99d?style=for-the-badge" alt="Industrial Logistics"/>
+  <img src="https://img.shields.io/badge/Theme-Connectivity%20%7C%20Sensing%20%7C%20Data%20Fusion-5c6bc0?style=for-the-badge" alt="Connectivity, sensing, and data fusion"/>
 </p>
 
 <p align="center">
@@ -12,45 +22,35 @@
 
 ---
 
-Ensure6G is a research initiative focused on developing **secure, reliable, and trustworthy next-generation communication systems**.
+ENSURE-6G develops secure, reliable, and trustworthy next-generation communication systems for industrial and society-critical environments. The project explores how multi-scale connectivity, sensing, and data fusion can improve the dependability and adaptability of future wireless networks.
 
-As 6G networks evolve to support critical applications across industry, society, and infrastructure, ensuring robustness against failures, attacks, and uncertainties becomes essential.
+## At a glance
 
----
+| Project direction | What it enables |
+| --- | --- |
+| **Resilient 6G communication** | Robust wireless systems for demanding industrial settings |
+| **Secure distributed infrastructure** | Trustworthy connectivity across organizations and borders |
+| **Data-driven intelligence** | Monitoring, anomaly detection, and adaptive network behavior |
+| **Industrial logistics** | Reliable sensing, coordination, and operational awareness |
 
-## 🔍 Key Objectives
+## Research pillars
 
-- Strengthen **security and resilience** in next-generation wireless networks  
-- Enable **reliable communication** for mission-critical applications  
-- Develop **adaptive and intelligent system mechanisms**  
-- Improve **trustworthiness and robustness** of distributed infrastructures  
+| Connectivity | Sensing | Data fusion |
+| --- | --- | --- |
+| Reliable communication for emerging 6G systems and mission-critical use cases. | Network-aware sensing and monitoring in complex industrial environments. | Combining distributed data sources into actionable, trustworthy situational insight. |
 
----
+## Application domains
 
-## 🚀 Research Focus
+| Industrial IoT | Smart infrastructure | Mission-critical systems | Cyber-physical systems |
+| --- | --- | --- | --- |
+| Secure connected devices and production environments. | Resilient digital foundations for cities and regions. | Dependable communication where failure is costly. | Autonomous systems that need robust network awareness. |
 
-- Secure and reliable communication in emerging 6G systems  
-- Data-driven monitoring and anomaly detection  
-- Industrial IoT and critical systems  
-- Autonomous and intelligent network operation  
+## Collaboration
 
----
+ENSURE-6G brings together academic and industrial partners to bridge research and real-world deployment, contributing to future communication infrastructures across the Interreg Aurora region.
 
-## 🏭 Application Domains
-
-- Industrial IoT (IIoT)  
-- Smart infrastructure and cities  
-- Mission-critical systems  
-- Cyber-physical systems  
-
----
-
-## 🤝 Collaboration
-
-Ensure6G brings together academic and industrial partners to bridge the gap between **research and real-world deployment**, contributing to future communication infrastructures.
-
----
-
-## 📍 Project Page
-
-👉 https://www.miun.se/en/Research/research-projects/ongoing-research-projects/ENSURE6G/
+<p align="center">
+  <a href="https://www.miun.se/en/Research/research-projects/ongoing-research-projects/ENSURE6G/">
+    <strong>Visit the ENSURE-6G project page</strong>
+  </a>
+</p>
