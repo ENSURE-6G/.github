@@ -1,7 +1,7 @@
 # Ensure6G – Trustworthy and Resilient 6G Systems
 
 <p align="center">
-  <img src="https://miun.imagevault.media/publishedmedia/s05vj54hx1o414woew74/Interreg_AURORA_16x9.webp" alt="Interreg Aurora Funding" width="700"/>
+  <img src="assets/ensure-6g-industrial-logistics.png" alt="ENSURE-6G industrial logistics project banner" width="900"/>
 </p>
 
 <p align="center">
